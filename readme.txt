@@ -1,1 +1,1 @@
-Project Course Udemy AI Engineering 
+Course Project AI Data Science 
